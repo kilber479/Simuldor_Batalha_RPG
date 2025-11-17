@@ -159,7 +159,13 @@ Apenas inicia `JogoView`.
 O projeto atinge todos os requisitos da disciplina e apresenta uma arquitetura modular, expansível e de fácil manutenção.
 
 ---
+## Evidências de execução:
 
+
+https://github.com/user-attachments/assets/6b1c869c-f689-4d3a-911e-6ad06354f91a
+
+
+---
 # 📘 Aluno;
 Projeto desenvolvido para a disciplina **Programação Orientada a Objetos**.
 Pelo Aluno:Kilber Fernando Guimarães Alves Filho
